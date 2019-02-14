@@ -1,0 +1,232 @@
+{ 
+    "ru": {
+        "previewSection": {
+            "infoGrid": [
+                {
+                    "icon": "./images/icons/preview-icon1.svg",
+                    "text": "Скоринговая модель обучена более чем по миллиону микрозаймов (сегмент - до 30 дней до 50000 р)"
+                },
+                {
+                    "icon": "./images/icons/preview-icon2.svg",
+                    "text": "Настройка параметров модели под ваш бизнес — выбор набора переменных выбор из нескольких комбинаций целевой переменной и уровня одобрений"
+                },
+                {
+                    "icon": "./images/icons/preview-icon3.svg",
+                    "text": "После накопления достаточного кол-ва информации о выданных кредитах, модель автоматически индивидуализируется под ваш портфель" 
+                }
+            ]
+        },
+        "whySection": {
+            "title": "Почему Cash Machine?",
+            "preview": "./images/laptop.png",
+            "infoGrid": [
+                {
+                    "icon": "./images/icons/why-icon1.svg",
+                    "text": "Увеличение дохода МФО от 25% до 180% (я бы даже сказал, до 1488%)"
+                },
+                {
+                    "icon": "./images/icons/why-icon2.svg",
+                    "text": "Снижение уровня мошеннических заявок на 40%-80%"
+                },
+                {
+                    "icon": "./images/icons/why-icon3.svg",
+                    "text": "Достижение целевых показателей уровня одобрений и доходности за 1-2 месяц"
+                }, 
+                { 
+                    "icon": "./images/icons/why-icon4.svg",
+                    "text": "Автоматическая индивидуализация модели под ваш кредитный портфель" 
+                }
+            ]
+        }, 
+        "advantagesSection": { 
+            "title": "Дополнительные преимущества", 
+            "infoGrid": [ 
+                {
+                    "icon": "./images/icons/adv-icon1.svg",
+                    "text": "Детальная интерпретация каждого решения, которая соответствует всем требованиям ЦБ"
+                },
+                {
+                    "icon": "./images/icons/adv-icon2.svg",
+                    "text": "Рекомендация оптимальной суммы кредита или аннуитетного платежа"
+                },
+                {
+                    "icon": "./images/icons/adv-icon3.svg",
+                    "text": "Автоматизированное обогащение данных (геоданные, соцсети)" 
+                }
+            ]
+        },
+        "startSection": {
+            "title": "Быстрый старт",
+            "infoGrid": [  
+                {
+                    "icon": "./images/icons/start-icon1.svg",
+                    "text": "Вы регистрируетесь в системе"
+                },
+                {
+                    "icon": "./images/icons/start-icon2.svg",
+                    "text": "Выбираете оптимальную комбинацию целевой переменной и уровня одобрений"
+                },
+                {
+                    "icon": "./images/icons/start-icon3.svg",
+                    "text": "Отмечаете переменные из списка предложенных"
+                },
+                {
+                    "icon": "./images/icons/start-icon4.svg",
+                    "text": "Добавляете своих кредитных специалистов в систему"
+                },
+                {
+                    "icon": "./images/icons/start-icon5.svg",
+                    "text": "Начинаете работу с Cash Machine" 
+                }
+            ]
+        }, 
+        "technologiesSection": {
+            "title": "Технологии Cash Machine",
+            "infoGrid": [
+                {
+                    "topText": "Машинное",
+                    "botText": "обучение",
+                    "image": "./images/icons/tech-icon1.svg"
+                },
+                {
+                    "topText": "Deep",
+                    "botText": "Learning",
+                    "image": "./images/icons/tech-icon2.svg" 
+                },
+                {
+                    "topText": "Natural Language",
+                    "botText": "Processing",
+                    "image": "./images/icons/tech-icon3.svg"
+                },
+                {
+                    "topText": "Computer",
+                    "botText": "vision",
+                    "image": "./images/icons/tech-icon4.svg" 
+                }
+            ],
+            "footerTitle": "100%",
+            "footerDescr": "Если результаты деятельности различаются более чем на 3% от выбранной модели кредитования при настройки модели – вы получаете полный возврат оплаченных средств за расчетный период. Гарантия прописывается в договоре!"
+        }, 
+        "teamSection": {  
+            "teamList": [
+                {
+                    "photo": "./images/team/photo1.jpg", 
+                    "name": "Никита Николаев",
+                    "infoList": [
+                        {
+                            "icon": "",
+                            "text": "CEO"
+                        },
+                        {
+                            "icon": "",
+                            "text": "n.nikolaev@fscorelab.ru"
+                        }
+                    ]
+                },
+                {
+                    "photo": "./images/team/photo2.jpg",
+                    "name": "Евгений Никитин",
+                    "infoList": [
+                        {
+                            "icon": "",
+                            "text": "Chief Data Scientist"
+                        },
+                        {
+                            "icon": "",
+                            "text": "e.nikitin92"
+                        },
+                        {
+                            "icon": "",
+                            "text": "e.nikitin@fscorelab.ru" 
+                        }
+                    ]
+                },
+                {
+                    "photo": "./images/team/photo3.jpg",
+                    "name": "Никита Лештаев",
+                    "infoList": [
+                        {
+                            "icon": "",
+                            "text": "Data Scientist"
+                        } 
+                    ]
+                },
+                {  
+                    "photo": "./images/team/photo4.jpg",  
+                    "name": "Юрий Ковалёв", 
+                    "infoList": [
+                        {
+                            "icon": "",
+                            "text": "Директор по продажам"
+                        }
+                    ]
+                },
+                {  
+                    "photo": "./images/team/photo5.jpg",  
+                    "name": "Екатерина Попова", 
+                    "infoList": [
+                        {
+                            "icon": "",
+                            "text": "Бухгалтер"
+                        }
+                    ]
+                },
+                {  
+                    "photo": "./images/team/photo6.jpg",  
+                    "name": "Родион Татаркин", 
+                    "infoList": [
+                        {
+                            "icon": "", 
+                            "text": "Глава отдела разработки программного обеспечения"
+                        },
+                        {
+                            "icon": "", 
+                            "text": "r.tatarkin@fscorelab.ru"
+                        }
+                    ]
+                },
+                {  
+                    "photo": "./images/team/photo7.jpg",  
+                    "name": "Иван Соколов", 
+                    "infoList": [
+                        { 
+                            "icon": "",
+                            "text": "Data Scientist" 
+                        }
+                    ]
+                }
+            ]
+        },
+        "tariffsSection": { 
+            "title": "Тарифы", 
+            "tariffsList": [
+                {
+                    "title": "Стартап",
+                    "icon": "./images/icons/tariffs-icon1.svg",
+                    "description": "Для новых МФО до 2000 запросов к скорингу в месяц",
+                    "price": "30 000 ₽"  
+                },
+                {
+                    "title": "Общий",
+                    "icon": "./images/icons/tariffs-icon2.svg",
+                    "description": "от 2000 до 10000 запросов к скорингу в месяц",
+                    "price": "50 000 ₽" 
+                },
+                {
+                    "title": "Продвинутый",
+                    "icon": "./images/icons/tariffs-icon3.svg",
+                    "description": "от 10000 до 30000 запросов к скорингу в месяц",
+                    "price": "75 000 ₽" 
+                },
+                {
+                    "title": "Профессиональный", 
+                    "icon": "./images/icons/tariffs-icon4.svg",
+                    "description": "от 30 000 запросов в месяц",
+                    "price": "Индивидуально" 
+                }
+            ], 
+            "description": "Зарегистрируйтесь в системе и получите возможность протестировать Cash Machine на 100 бесплатных скоринговых проверках!",
+            "buttonText": "получить 100 бесплатных проверок" 
+        }
+    }
+}  
